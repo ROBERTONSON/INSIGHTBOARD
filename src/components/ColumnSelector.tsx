@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { useSession } from '../context/SessionContext';
 import { runAnalysis } from '../lib/analysisEngine';
 import type { AnalysisInput } from '../types/index';

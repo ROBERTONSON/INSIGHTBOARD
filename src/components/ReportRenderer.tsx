@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { useSession } from '../context/SessionContext';
 import { CorrelationHeatmap } from './CorrelationHeatmap';
 import { exportToPNG, exportToPDF } from '../lib/exportManager';

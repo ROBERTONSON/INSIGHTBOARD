@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { SessionProvider } from './context/SessionContext';
 import { UploadZone } from './components/UploadZone';
 import { DataPreview } from './components/DataPreview';
