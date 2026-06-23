@@ -1,3 +1,4 @@
+// 21st.dev Component: Badge & Tabs
 import { useState, useMemo } from 'react';
 import { useSession } from '../context/SessionContext';
 import { runAnalysis } from '../lib/analysisEngine';

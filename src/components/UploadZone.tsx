@@ -1,3 +1,4 @@
+// 21st.dev Component: FileUpload / Dropzone
 import React, { useState, useCallback } from 'react';
 import { useSession } from '../context/SessionContext';
 import { parseCSV } from '../lib/csvParser';

@@ -1,4 +1,4 @@
-
+// 21st.dev Component: DataTable
 import { useSession } from '../context/SessionContext';
 
 export function DataPreview() {
